@@ -1,0 +1,3 @@
+mkdir fullstack-task-manager
+cd fullstack-task-manager
+git init
